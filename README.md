@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-🔭 I'm currently working on AppliTrak: an AI-powered job portal that uses machine learning to match resumes with jobs in 30 seconds (instead of 5-7 minutes manually). Built with modern web technologies including React, Node.js, and MongoDB, featuring secure user authentication, document processing, and real-time analytics.
+I'm currently working on AppliTrak: an AI-powered job portal that uses machine learning to match resumes with jobs in 30 seconds (instead of 5-7 minutes manually). Built with modern web technologies including React, Node.js, and MongoDB, featuring secure user authentication, document processing, and real-time analytics.
 
-👯 I'm looking to collaborate on meaningful projects where I can contribute my full-stack development skills, learn from experienced teams, and help build solutions that make a real impact.
+I'm looking to collaborate on meaningful projects where I can contribute my full-stack development skills, learn from experienced teams, and help build solutions that make a real impact.
 
-🤝 I'm looking for help with landing a Software/Web/Frontend Developer internship where I can gain hands-on experience, receive mentorship, and work on real-world projects in a professional development environment.
+I'm looking for help with landing a Software/Web/Frontend Developer internship where I can gain hands-on experience, receive mentorship, and work on real-world projects in a professional development environment.
 
-🌱 I'm currently learning React.js, Next.js, and Express.js to build modern, fast, and scalable web applications. Actively expanding my skills through hands-on projects and exploring industry best practices.
+I'm currently learning React.js, Next.js, and Express.js to build modern, fast, and scalable web applications. Actively expanding my skills through hands-on projects and exploring industry best practices.
 
-💬 Ask me about web development, building APIs, working with databases, or integrating AI into web apps. I enjoy discussing code solutions and learning from others!
+Ask me about web development, building APIs, working with databases, or integrating AI into web apps. I enjoy discussing code solutions and learning from others!
 
-⚡ Fun fact: I built an AI-powered app without expensive cloud services, proving creativity beats budget. Plus, I actually enjoy debugging—it's like solving puzzles!
+Fun fact: I built an AI-powered app without expensive cloud services, proving creativity beats budget. Plus, I actually enjoy debugging—it's like solving puzzles!
 
 
 ## 🌐 Socials:
